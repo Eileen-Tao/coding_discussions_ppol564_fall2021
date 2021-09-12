@@ -58,3 +58,7 @@ b. I have learned a lot of R syntax!
 Sonali Subbu Rathinam
 a. I decided to attend policy school as I want to learn to use data for social welfare.
 b. I learnt the importance of version control systems
+
+Eileen(Yingjiang) Tao
+a. I decided to attend public policy school to hone my data analysis skill to solve real-world problems.
+b. I learned the vaule of github. It can help people work together effectively and is a good way to learn from others
